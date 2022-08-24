@@ -1,0 +1,3 @@
+"D:\CLion 2020.3.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\T3.dir/objects.a
+C:\PROGRA~1\REDPAN~1\MinGW64\bin\ar.exe cr CMakeFiles\T3.dir/objects.a @CMakeFiles\T3.dir\objects1.rsp
+C:\PROGRA~1\REDPAN~1\MinGW64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\T3.dir/objects.a -Wl,--no-whole-archive  -o T3.exe -Wl,--out-implib,libT3.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\T3.dir\linklibs.rsp
